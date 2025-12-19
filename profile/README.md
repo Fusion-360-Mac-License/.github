@@ -1,7 +1,7 @@
 # Fusion 360 – Cloud-Based CAD/CAM
 
 <div align="center">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Fusion360_Logo.svg/1200px-Fusion360_Logo.svg.png" width="250" alt="Fusion 360 Logo"/>  
+  <img src="https://www.dexigner.com/images/article/24163/Autodesk_Fusion_360_02.jpg" width="250" alt="Fusion 360 Logo"/>  
 </div>  
 
 <br>  
